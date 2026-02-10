@@ -1,0 +1,17 @@
+SETUP: software
+TROUBLESHOOT: software
+MAINTENANCE: software
+DOCUMENTATION: software
+USER_REQUEST: software
+SECURITY: security
+PERFORMANCE: software
+
+UNCLASSIFIED: general
+UNKNOWN: general
+NETWORK: network
+HARDWARE: hardware
+DATABASE: database
+PASSWORD_RESET: password_reset
+UPI: Payments
+REWARDS: Rewards
+PAYMENT: Payments

@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-01-22T04:25:01.899546Z",
+    "ticket_id": "20f88bc08359321089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:03.501052Z",
+    "ticket_id": "23f772c9839e721089031390ceaad33c",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:05.124880Z",
+    "ticket_id": "2bb172398381ba1089031390ceaad3f1",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:06.801429Z",
+    "ticket_id": "2f88e70d8316b21089031390ceaad3de",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  }
+]

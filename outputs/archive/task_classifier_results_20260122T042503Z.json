@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2026-01-22T04:25:01.899546Z",
+    "ticket_id": "20f88bc08359321089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  }
+]

@@ -1,0 +1,779 @@
+[
+  {
+    "timestamp": "2026-01-22T04:25:01.899546Z",
+    "ticket_id": "20f88bc08359321089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:03.501052Z",
+    "ticket_id": "23f772c9839e721089031390ceaad33c",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:05.124880Z",
+    "ticket_id": "2bb172398381ba1089031390ceaad3f1",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:06.801429Z",
+    "ticket_id": "2f88e70d8316b21089031390ceaad3de",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:08.404522Z",
+    "ticket_id": "378772848367221089031390ceaad300",
+    "input_text": "Can't access SFA software",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:10.024725Z",
+    "ticket_id": "40c8cf3b83c2bad089031390ceaad35b",
+    "input_text": "Keyboard keys not responding",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:11.674610Z",
+    "ticket_id": "46e8219ba9fe1981013806b6e04fed06",
+    "input_text": "Can't launch 64-bit Windows 7 virtual machine",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:13.337259Z",
+    "ticket_id": "46edaa6aa9fe198101b9d14ced16619f",
+    "input_text": "I need a replacement iPhone, please",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:15.051646Z",
+    "ticket_id": "47064b68a9fe19810186793eefffc9b7",
+    "input_text": "Need help with Remedy. Can we configure UI?",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "configure"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:16.651542Z",
+    "ticket_id": "471eb058a9fe198100f89592e1ea93d3",
+    "input_text": "My desk phone does not work",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:18.479200Z",
+    "ticket_id": "47204688a9fe1981011a20af100f381a",
+    "input_text": "Can't log into SAP from my laptop today",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:20.095638Z",
+    "ticket_id": "4891b1c983c3221089031390ceaad34c",
+    "input_text": "Provide me access to ReAMP database",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:21.727518Z",
+    "ticket_id": "60fa7b378300365089031390ceaad345",
+    "input_text": "network",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:23.359517Z",
+    "ticket_id": "69acb67d83c1ba1089031390ceaad315",
+    "input_text": "Can't read mail",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:25.250824Z",
+    "ticket_id": "7498b93f8301f21089031390ceaad3f5",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:26.945326Z",
+    "ticket_id": "753920658305f61089031390ceaad33e",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:28.745347Z",
+    "ticket_id": "77c043758305ba1089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:30.394719Z",
+    "ticket_id": "7a36c801838ef29089031390ceaad3a0",
+    "input_text": "Wallet balance mismatch after multiple transactions",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:32.416102Z",
+    "ticket_id": "8bb7fac48367221089031390ceaad3e3",
+    "input_text": "Can't access Exchange server - is it down?",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:34.274192Z",
+    "ticket_id": "8f48bac48367221089031390ceaad3f9",
+    "input_text": "Manager can't access SAP Controlling application",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:36.014270Z",
+    "ticket_id": "8fb2d80983cef29089031390ceaad3ae",
+    "input_text": "Suspicious high-value transaction alert triggered",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:37.694531Z",
+    "ticket_id": "921d6d958362321089031390ceaad3c4",
+    "input_text": "Cpu load high for over 10 min",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:39.379783Z",
+    "ticket_id": "990e13308356321089031390ceaad374",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:41.074939Z",
+    "ticket_id": "a094c80983caf29089031390ceaad3b7",
+    "input_text": "Cashback not credited after eligible wallet transaction",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:42.837611Z",
+    "ticket_id": "b8ec27058356b21089031390ceaad30b",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:44.500221Z",
+    "ticket_id": "bfc18bcb83b1b65089031390ceaad3c5",
+    "input_text": "VPN Connection failing",
+    "category": "INTEGRATION",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "connect"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:46.133512Z",
+    "ticket_id": "c23c6fb88396321089031390ceaad3b9",
+    "input_text": "Access DB Provisioning Task",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:47.827163Z",
+    "ticket_id": "cf20173f83c2bad089031390ceaad3ed",
+    "input_text": "Unable to obtain IP address",
+    "category": "USER_REQUEST",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "add"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:49.509326Z",
+    "ticket_id": "d3f3b205839e721089031390ceaad3dd",
+    "input_text": "Give me access for amsdb database",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:51.277082Z",
+    "ticket_id": "d4b93d458319f61089031390ceaad3ab",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:52.931691Z",
+    "ticket_id": "d6e6b6848367221089031390ceaad343",
+    "input_text": "I can't get my weather report",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:54.715339Z",
+    "ticket_id": "dcefe689835e721089031390ceaad32d",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:56.631854Z",
+    "ticket_id": "e477f6848367221089031390ceaad348",
+    "input_text": "My desk phone does not work",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:58.637210Z",
+    "ticket_id": "e881cf8b83b1b65089031390ceaad301",
+    "input_text": "VPN Connection failing",
+    "category": "INTEGRATION",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "connect"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:26:00.319550Z",
+    "ticket_id": "e97c866e8365769089031390ceaad3a7",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:26:01.981642Z",
+    "ticket_id": "f38fa73483caf29089031390ceaad39f",
+    "input_text": "Amount debited but digital wallet transaction failed",
+    "category": "TROUBLESHOOT",
+    "confidence": 0.12,
+    "matched_keywords": [
+      "fail"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:26:03.881278Z",
+    "ticket_id": "f4f958d283d7221089031390ceaad3e4",
+    "input_text": "Rain is leaking on main DNS Server",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:26:05.537385Z",
+    "ticket_id": "fd9d41ca832a761089031390ceaad33b",
+    "input_text": "Application slow Performance when generating Reports.",
+    "category": "PERFORMANCE",
+    "confidence": 0.14,
+    "matched_keywords": [
+      "slow"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:02:59.573894Z",
+    "ticket_id": "0c5f3cece1b12010f877971dea0b1449",
+    "input_text": "ATF:TEST2",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:01.836928Z",
+    "ticket_id": "46e57642a9fe1981000b96a5dca501ff",
+    "input_text": "Sales forecast spreadsheet is READ ONLY",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:03.644432Z",
+    "ticket_id": "46e8219ba9fe1981013806b6e04fed06",
+    "input_text": "Can't launch 64-bit Windows 7 virtual machine",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:05.442453Z",
+    "ticket_id": "46edaa6aa9fe198101b9d14ced16619f",
+    "input_text": "I need a replacement iPhone, please",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:07.558033Z",
+    "ticket_id": "46f09e75a9fe198100f4ffd8d366d17b",
+    "input_text": "Need to add more memory to laptop",
+    "category": "USER_REQUEST",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "add"
+    ],
+    "execution_time_ms": 6
+  },
+  {
+    "timestamp": "2026-02-04T10:03:09.468853Z",
+    "ticket_id": "46f4f4dfa9fe198100063e60278f76ec",
+    "input_text": "Please remove the latest hotfix from my PC",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:11.417325Z",
+    "ticket_id": "47064b68a9fe19810186793eefffc9b7",
+    "input_text": "Need help with Remedy. Can we configure UI?",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "configure"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:13.246160Z",
+    "ticket_id": "471eb058a9fe198100f89592e1ea93d3",
+    "input_text": "My desk phone does not work",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:15.254289Z",
+    "ticket_id": "47204688a9fe1981011a20af100f381a",
+    "input_text": "Can't log into SAP from my laptop today",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:17.156466Z",
+    "ticket_id": "552c48888c033300964f4932b03eb092",
+    "input_text": "Assessment :  ATF Assessor",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:20.281606Z",
+    "ticket_id": "57af7aec73d423002728660c4cf6a71c",
+    "input_text": "Unable to access the shared folder.",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:22.067694Z",
+    "ticket_id": "78271e1347c12200e0ef563dbb9a7109",
+    "input_text": "Performance problems with wifi",
+    "category": "TROUBLESHOOT",
+    "confidence": 0.12,
+    "matched_keywords": [
+      "problem"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:23.825851Z",
+    "ticket_id": "85071a1347c12200e0ef563dbb9a71c1",
+    "input_text": "Unable to access team file share",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:25.750795Z",
+    "ticket_id": "965c9e5347c12200e0ef563dbb9a7156",
+    "input_text": "Performance problems with email",
+    "category": "TROUBLESHOOT",
+    "confidence": 0.12,
+    "matched_keywords": [
+      "problem"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:27.784760Z",
+    "ticket_id": "a623cdb073a023002728660c4cf6a768",
+    "input_text": "Unable to post content on a Wiki page",
+    "category": "DOCUMENTATION",
+    "confidence": 0.14,
+    "matched_keywords": [
+      "wiki"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:29.701915Z",
+    "ticket_id": "a83820b58f723300e7e16c7827bdeed2",
+    "input_text": "ATF : Test1",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:31.836987Z",
+    "ticket_id": "ed92e8d173d023002728660c4cf6a7bc",
+    "input_text": "Email server is down.",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-04T10:03:33.806260Z",
+    "ticket_id": "ff4c21c4735123002728660c4cf6a758",
+    "input_text": "Need access to the common drive.",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:24.330651Z",
+    "ticket_id": "0c5f3cece1b12010f877971dea0b1449",
+    "input_text": "ATF:TEST2",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:26.054993Z",
+    "ticket_id": "436366c783323210d32894b6feaad33b",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:27.771968Z",
+    "ticket_id": "46e57642a9fe1981000b96a5dca501ff",
+    "input_text": "Sales forecast spreadsheet is READ ONLY",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:29.489457Z",
+    "ticket_id": "46e8219ba9fe1981013806b6e04fed06",
+    "input_text": "Can't launch 64-bit Windows 7 virtual machine",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:31.135138Z",
+    "ticket_id": "46edaa6aa9fe198101b9d14ced16619f",
+    "input_text": "I need a replacement iPhone, please",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:32.752834Z",
+    "ticket_id": "46f09e75a9fe198100f4ffd8d366d17b",
+    "input_text": "Need to add more memory to laptop",
+    "category": "USER_REQUEST",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "add"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:34.465664Z",
+    "ticket_id": "46f4f4dfa9fe198100063e60278f76ec",
+    "input_text": "Please remove the latest hotfix from my PC",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:36.234967Z",
+    "ticket_id": "47064b68a9fe19810186793eefffc9b7",
+    "input_text": "Need help with Remedy. Can we configure UI?",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "configure"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:37.863019Z",
+    "ticket_id": "471eb058a9fe198100f89592e1ea93d3",
+    "input_text": "My desk phone does not work",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:39.452472Z",
+    "ticket_id": "47204688a9fe1981011a20af100f381a",
+    "input_text": "Can't log into SAP from my laptop today",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:41.055660Z",
+    "ticket_id": "552c48888c033300964f4932b03eb092",
+    "input_text": "Assessment :  ATF Assessor",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:42.697171Z",
+    "ticket_id": "57af7aec73d423002728660c4cf6a71c",
+    "input_text": "Unable to access the shared folder.",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:44.406271Z",
+    "ticket_id": "78271e1347c12200e0ef563dbb9a7109",
+    "input_text": "Performance problems with wifi",
+    "category": "TROUBLESHOOT",
+    "confidence": 0.12,
+    "matched_keywords": [
+      "problem"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:46.112428Z",
+    "ticket_id": "85071a1347c12200e0ef563dbb9a71c1",
+    "input_text": "Unable to access team file share",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:47.774640Z",
+    "ticket_id": "965c9e5347c12200e0ef563dbb9a7156",
+    "input_text": "Performance problems with email",
+    "category": "TROUBLESHOOT",
+    "confidence": 0.12,
+    "matched_keywords": [
+      "problem"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:49.339639Z",
+    "ticket_id": "a623cdb073a023002728660c4cf6a768",
+    "input_text": "Unable to post content on a Wiki page",
+    "category": "DOCUMENTATION",
+    "confidence": 0.14,
+    "matched_keywords": [
+      "wiki"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:50.993535Z",
+    "ticket_id": "a83820b58f723300e7e16c7827bdeed2",
+    "input_text": "ATF : Test1",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:52.736233Z",
+    "ticket_id": "ed92e8d173d023002728660c4cf6a7bc",
+    "input_text": "Email server is down.",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-09T04:57:54.410876Z",
+    "ticket_id": "ff4c21c4735123002728660c4cf6a758",
+    "input_text": "Need access to the common drive.",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-02-10T06:15:00.991865Z",
+    "ticket_id": "0c5f3cece1b12010f877971dea0b1449",
+    "input_text": "ATF:TEST2",
+    "category": "inquiry",
+    "confidence": 0.8,
+    "matched_keywords": [],
+    "execution_time_ms": 2610
+  },
+  {
+    "timestamp": "2026-02-10T06:15:07.689331Z",
+    "ticket_id": "436366c783323210d32894b6feaad33b",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "inquiry",
+    "confidence": 0.85,
+    "matched_keywords": [],
+    "execution_time_ms": 2812
+  },
+  {
+    "timestamp": "2026-02-10T06:15:17.568695Z",
+    "ticket_id": "46e57642a9fe1981000b96a5dca501ff",
+    "input_text": "Sales forecast spreadsheet is READ ONLY",
+    "category": "software",
+    "confidence": 0.85,
+    "matched_keywords": [],
+    "execution_time_ms": 2746
+  },
+  {
+    "timestamp": "2026-02-10T06:15:22.689042Z",
+    "ticket_id": "46e8219ba9fe1981013806b6e04fed06",
+    "input_text": "Can't launch 64-bit Windows 7 virtual machine",
+    "category": "software",
+    "confidence": 0.85,
+    "matched_keywords": [],
+    "execution_time_ms": 2749
+  }
+]

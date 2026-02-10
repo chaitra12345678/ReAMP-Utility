@@ -1,0 +1,185 @@
+[
+  {
+    "timestamp": "2026-01-22T04:25:01.899546Z",
+    "ticket_id": "20f88bc08359321089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:03.501052Z",
+    "ticket_id": "23f772c9839e721089031390ceaad33c",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:05.124880Z",
+    "ticket_id": "2bb172398381ba1089031390ceaad3f1",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:06.801429Z",
+    "ticket_id": "2f88e70d8316b21089031390ceaad3de",
+    "input_text": "Access DB Provisioning Request",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "provision"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:08.404522Z",
+    "ticket_id": "378772848367221089031390ceaad300",
+    "input_text": "Can't access SFA software",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:10.024725Z",
+    "ticket_id": "40c8cf3b83c2bad089031390ceaad35b",
+    "input_text": "Keyboard keys not responding",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:11.674610Z",
+    "ticket_id": "46e8219ba9fe1981013806b6e04fed06",
+    "input_text": "Can't launch 64-bit Windows 7 virtual machine",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:13.337259Z",
+    "ticket_id": "46edaa6aa9fe198101b9d14ced16619f",
+    "input_text": "I need a replacement iPhone, please",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:15.051646Z",
+    "ticket_id": "47064b68a9fe19810186793eefffc9b7",
+    "input_text": "Need help with Remedy. Can we configure UI?",
+    "category": "SETUP",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "configure"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:16.651542Z",
+    "ticket_id": "471eb058a9fe198100f89592e1ea93d3",
+    "input_text": "My desk phone does not work",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:18.479200Z",
+    "ticket_id": "47204688a9fe1981011a20af100f381a",
+    "input_text": "Can't log into SAP from my laptop today",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:20.095638Z",
+    "ticket_id": "4891b1c983c3221089031390ceaad34c",
+    "input_text": "Provide me access to ReAMP database",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:21.727518Z",
+    "ticket_id": "60fa7b378300365089031390ceaad345",
+    "input_text": "network",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:23.359517Z",
+    "ticket_id": "69acb67d83c1ba1089031390ceaad315",
+    "input_text": "Can't read mail",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:25.250824Z",
+    "ticket_id": "7498b93f8301f21089031390ceaad3f5",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:26.945326Z",
+    "ticket_id": "753920658305f61089031390ceaad33e",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:28.745347Z",
+    "ticket_id": "77c043758305ba1089031390ceaad3fc",
+    "input_text": "{Topic.ShortDescription}",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:30.394719Z",
+    "ticket_id": "7a36c801838ef29089031390ceaad3a0",
+    "input_text": "Wallet balance mismatch after multiple transactions",
+    "category": "UNCLASSIFIED",
+    "confidence": 0.0,
+    "matched_keywords": [],
+    "execution_time_ms": 0
+  },
+  {
+    "timestamp": "2026-01-22T04:25:32.416102Z",
+    "ticket_id": "8bb7fac48367221089031390ceaad3e3",
+    "input_text": "Can't access Exchange server - is it down?",
+    "category": "SECURITY",
+    "confidence": 0.17,
+    "matched_keywords": [
+      "access"
+    ],
+    "execution_time_ms": 0
+  }
+]
